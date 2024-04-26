@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm Arish Thomas Varghese, a BTech computer science student with a strong foundation in C programming and web development using HTML and CSS. I'm proficient in managing MySQL databases and currently expanding my skills with Python. Fluent in English, Hindi, Malayalam, and Tamil, I excel in effective communication across diverse linguistic backgrounds. With a knack for problem-solving and a passion for tackling challenges, I thrive in dynamic environments.
 
 
 ## Portfolio Highlights
